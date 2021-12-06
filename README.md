@@ -1,16 +1,25 @@
-### Hi there 👋
+### Olá 👋
+  
+Meu nome é Ianca Silva
 
-<!--
-**Iancaxz/Iancaxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou estudante de desenvolvimento front-end 
+## Conhecimentos 💡
 
-Here are some ideas to get you started:
+ * <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ * <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## As linguagens que eu mais uso são: 💻
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iancaxz&langs_count=8&theme=radical)
+
+
+## Informações do meu Github: ✔
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Iancaxz&theme=radical)
+ 
+
+
+## Me siga nas redes sociais 👇
+
+
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ianca-rochelley-ferreira-da-silva-522838203/)
+ [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/iancacode/)
+ 
