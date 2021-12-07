@@ -2,7 +2,7 @@
   
 Meu nome é Ianca Silva
 
-Eu sou estudante de desenvolvimento front-end 
+Eu sou estudante de desenvolvimento front-end  
 ## Conhecimentos 💡
 
  * <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
