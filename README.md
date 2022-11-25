@@ -1,26 +1,31 @@
-### Olá 👋
+## Hello World ☕
+
+<p>Meu nome é Ianca Silva. Trabalho como Web Developer Freelancer.
+Produzo conteúdo desde 2021 sobre desenvolvimento front-end. Adoro escrever códigos
+e assistir coisas incríveis surgindo na tela, é estranhamente satisfatório.</p>
+
+## Minhas Skills 💡
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+
+## Informações sobre minha conta GitHub: ⭐
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iancaxz&show_icons=true)
+
+</br>
+
+<h3>Caso queira acompanhar meus conteúdos:</h3>
+
+<div align="left">
+  <a href="https://www.instagram.com/iancadev/" alt="Instagram">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
   
-Meu nome é Ianca Silva
-
-Eu sou estudante de desenvolvimento front-end  
-## Conhecimentos 💡
-
- * <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- * <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- * <img src="https://img.shields.io/badge/-Javascript-yellow?logo=javascript&logocolor=white"> 
-
-## As linguagens que eu mais uso são: 💻
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iancaxz&langs_count=8&theme=radical)
-
-
-## Informações do meu Github: ✔
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Iancaxz&theme=radical)
- 
-
-
-## Me siga nas redes sociais 👇
-
-
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ianca-silva-522838203/)
- [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/iancacode/)
- 
+  <a href="https://www.linkedin.com/in/ianca-silva-522838203/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
