@@ -14,7 +14,7 @@ e assistir coisas incríveis surgindo na tela, é estranhamente satisfatório.</
 
 ## Informações sobre minha conta GitHub: ⭐
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iancaxz&show_icons=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=iancaxz&show_icons=true)
 
 </br>
 
