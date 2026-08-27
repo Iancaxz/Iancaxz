@@ -1,6 +1,6 @@
 # Olá! Eu sou Ianca Silva 👋
 
-**Desenvolvedora Front-End** com 4+ anos de experiência no desenvolvimento e evolução de sites, landing pages e aplicações web.
+**Desenvolvedora Web** com 4+ anos de experiência no desenvolvimento e evolução de sites, landing pages e aplicações web.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianca-silva-522838203/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iancarochelley20@gmail.com)
